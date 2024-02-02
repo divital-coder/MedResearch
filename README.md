@@ -92,4 +92,6 @@ Here are some general guidelines to consider:
 
     Thematic Organization: Organize your literature review thematically or conceptually. This allows you to group related studies and present a cohesive narrative rather than simply listing individual papers.
 
-Remember that the goal of a literat
+Remember that the goal of a literature review is not just to list all available papers but to provide a critical synthesis of the existing knowledge and identify gaps or areas where your research can contribute. Discuss your plan with your advisor or colleagues to get specific guidance tailored to your research context.
+
+explore minimum 20 research papers for literature review
