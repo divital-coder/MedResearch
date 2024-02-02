@@ -24,7 +24,7 @@ effectiveness of implementation
 
 
 
-Research paper sites : Nature journal, Frontiers, OPLS 
+Research paper sites : Nature journal, Frontiers, ArXIV
 
 https://www.nature.com
 https://www.frontiersin.org/about/research-topics
