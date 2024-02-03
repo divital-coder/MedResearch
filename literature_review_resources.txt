@@ -1,0 +1,7 @@
+Relevant resources for handling literature review within the research papers based on MedImage.jl titled
+"Standardisation of Medical Imaging datasets from non uniform sources" :
+
+Research par included in the main branch (pdf#1)
+Research per included in the main branch (pdf#2)
+Article number : #1 : https://www.frontiersin.org/articles/10.3389/fneur.2013.00085/full
+
