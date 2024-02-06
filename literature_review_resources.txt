@@ -1,7 +1,26 @@
 Relevant resources for handling literature review within the research papers based on MedImage.jl titled
-"Standardisation of Medical Imaging datasets from non uniform sources" :
+"Standardisation of Medical Imaging datasets from non uniform sources within the julia language ecosystem." :
 
 Research par included in the main branch (pdf#1)
 Research per included in the main branch (pdf#2)
 Article number : #1 : https://www.frontiersin.org/articles/10.3389/fneur.2013.00085/full
+
+
+https://www.researchgate.net/publication/366147152_Data_augmentation_for_medical_imaging_A_systematic_literature_review
+https://www.semanticscholar.org/search?q=spatial%20metadata%20in%20medical%20imaging&sort=relevance
+https://www.semanticscholar.org/paper/Medical-Imaging-Data-Formats-Polzehl-Tabelow/2b1cd3cfb0ebbca215b8bdaed7de4cd67fc20071
+
+https://www.semanticscholar.org/paper/Rigorous-'NIfTI'-%2B-'ANALYZE'-%2B-'AFNI'-%3A-Input-%5BR-Whitcher-Schmid/db9f3bc7b9f6a1fe073c0d66cef0a821efa0505d
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=36089825
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017381/
+https://www.nature.com/articles/s41746-022-00592-y?error=cookies_not_supported&code=1cbc76e6-67e9-482e-a88d-a5c4ef52a51c
+https://demigos.com/blog-post/medical-image-analysis-software-development/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8790584/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3948928/
+https://www.researchgate.net/publication/338450134_Medical_Image_File_Formats_and_Digital_Image_Conversion
+https://www.researchgate.net/search/publication?q=Medical%20Image%20File%20Formats%20Michele%20Larobina
+https://www.altexsoft.com/blog/medical-datasets/
+https://en.wikipedia.org/wiki/Medical_imaging
+https://epubs.siam.org/doi/10.1137/141000671
+https://www.sciencedirect.com/science/article/pii/S2090123223003521#:~:text=By%20addressing%20significant%20challenges%20in,many%20scientific%20applications%2C%20including%20biology
 
