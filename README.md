@@ -38,7 +38,11 @@ literature survey -> background - > literature survey
                                     Working with nifti files with the help of nibabel and ITK
                                     Medical image data augmentations : augmenting original data
                                                                         generating synthetic dataset based on machine learning models.
-                                                                        
+                                    technical strides and approaches
+Problem statement
+Current Implementation within julia / objective proposed framework
+future work
+conclusion
 
 
 
