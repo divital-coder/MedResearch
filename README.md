@@ -30,7 +30,15 @@ https://www.nature.com
 https://www.frontiersin.org/about/research-topics
 
 
-
+Mentions: 
+abstract
+introduction
+literature survey -> background - > literature survey
+                                    various existing medical imaging data formats : dicom , nifti , analyze, minc, nrrd and hdf5
+                                    Working with nifti files with the help of nibabel and ITK
+                                    Medical image data augmentations : augmenting original data
+                                                                        generating synthetic dataset based on machine learning models.
+                                                                        
 
 
 
