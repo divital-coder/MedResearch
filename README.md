@@ -24,7 +24,7 @@ effectiveness of implementation
 
 
 
-Research paper sites : Nature journal, Frontiers, ArXIV, ResearchGate
+Research paper sites : Nature journal, Frontiers, ArXIV, ResearchGate , mdpi, pubmed, ScienceDirect,  
 
 https://www.nature.com
 https://www.frontiersin.org/about/research-topics
