@@ -108,3 +108,8 @@ Here are some general guidelines to consider:
 Remember that the goal of a literature review is not just to list all available papers but to provide a critical synthesis of the existing knowledge and identify gaps or areas where your research can contribute. Discuss your plan with your advisor or colleagues to get specific guidance tailored to your research context.
 
 explore minimum 20 research papers for literature review
+
+
+
+
+### BEST ENGINE FOR RESEARCHING ACADEMIC PAPERS : https://oa.mg/journals/open-access-quantum-mechanics-journals
